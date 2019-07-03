@@ -15,8 +15,13 @@
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
+<<<<<<< HEAD
     "flatModuleOutFile": "ngx-tabbed-input.js",
     "flatModuleId": "ngx-tabbed-input",
+=======
+    "flatModuleOutFile": "ngx-quick-message.js",
+    "flatModuleId": "ngx-quick-message",
+>>>>>>> e07ec6cadcd6e66bc9cbc7f544185c2976f6ab26
     "genDir": "../../out-tsc/lib-gen-dir/"
   }
 }
